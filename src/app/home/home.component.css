@@ -1,0 +1,28 @@
+.example-spacer {
+    flex: 1 1 auto;
+  }
+  .example-button-toggle-label {
+    display: inline-block;
+    margin: 16px;
+  }
+  h5{
+background-color: rgb(190, 190, 190);
+padding: 7px;;
+margin: 0;
+bottom: 0;
+position: fixed;
+width: 100%;
+  }
+  .imgTools{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 15%;
+  }
+
+
+  
+  /* div.container {
+    text-align: center;
+    padding: 10px 20px;
+  } */
